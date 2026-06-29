@@ -179,5 +179,5 @@ Melalui proyek ini berhasil menerapkan:
 
 ## 👨‍💻 Author
 
-**Mayumi Sari Sitanggang**
-253303622301
+**RISKEN SITORUS**
+243303621292
